@@ -21,7 +21,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "http://instagram.com/noureddine_ouafy" ,
+            "value": "http://instagram.com/8xas_h" ,
             "required": true
       },
      "URL_2NAME": {
@@ -31,7 +31,7 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/bobizbotmd/BOBIZ-MD" ,
+            "value": "https://github.com/yas730/BOBIZ-MD" ,
             "required": true
       },
       
@@ -78,7 +78,7 @@
       },
           "STIC_WM": {
             "description": "حقوق الملصق",
-            "value": "BOBIZ-MD" ,
+            "value": "yaser bot" ,
             "required": true
       }
          
